@@ -38,8 +38,10 @@ I'm a Systems Engineering student with a love for technology and a passion for c
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 <div align="center">
-  
-  ![Kein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keincarrillo&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&layout=compact&theme=tokyonight)
+  
+  ![Kein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keincarrillo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&layout=compact&theme=tokyonight&cache_seconds=3600)
+
+</div>
 
 
