@@ -38,10 +38,26 @@ I'm a Systems Engineering student with a love for technology and a passion for c
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 <div align="center">
+  <h3 align="center">📊 Mis Estadísticas de GitHub 📊</h3>
+  
+  <p align="center">
+    <a href="https://github.com/keincarrillo">
+      <img src="https://github-readme-stats.vercel.app/api?username=keincarrillo&theme=dracula&show_icons=true&count_private=true&hide_border=true&line_height=21" alt="Kein's GitHub Stats" />
+    </a>
+    <a href="https://github.com/keincarrillo">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=keincarrillo&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&theme=dracula&layout=compact&hide_border=true" alt="Top Langs" />
+  </p>
 
-  ![Kein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keincarrillo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&layout=compact&theme=tokyonight&cache_seconds=3600)
-
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=keincarrillo&theme=dracula&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    </a>
+  </p>
 </div>
 
 
