@@ -38,26 +38,26 @@ I'm a Systems Engineering student with a love for technology and a passion for c
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 <div align="center">
- <h3 align="center">📊 Mis Estadísticas de GitHub 📊</h3>
- 
- <p align="center">
-   <a href="https://github.com/keincarrillo">
-     <img src="https://github-readme-stats.vercel.app/api?username=keincarrillo&theme=ayu_mirage&show_icons=true&count_private=true&hide_border=true&line_height=21&cache_seconds=3600" alt="Kein's GitHub Stats" />
-   </a>
-   <a href="https://github.com/keincarrillo">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=keincarrillo&theme=ayu_mirage&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
-   </a>
- </p>
- 
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&theme=ayu_mirage&layout=compact&hide_border=true&cache_seconds=3600" alt="Top Langs" />
- </p>
+  <h3 align="center">📊 Mis Estadísticas de GitHub 📊</h3>
+  
+  <p align="center">
+    <a href="https://github.com/keincarrillo">
+      <img src="https://github-readme-stats.vercel.app/api?username=keincarrillo&theme=nord&show_icons=true&count_private=true&hide_border=true&line_height=21&cache_seconds=3600&include_all_commits=true" alt="Kein's GitHub Stats" />
+    </a>
+    <a href="https://github.com/keincarrillo">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=keincarrillo&theme=nord&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&theme=nord&layout=compact&hide_border=true&cache_seconds=3600" alt="Top Langs" />
+  </p>
 
- <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=keincarrillo&theme=ayu_mirage&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-   </a>
- </p>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=keincarrillo&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    </a>
+  </p>
 </div>
 
 
