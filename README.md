@@ -24,6 +24,7 @@ I'm a Systems Engineering student with a love for technology and a passion for c
 <h4> Databases </h4>
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h4> IDE </h4>
 
