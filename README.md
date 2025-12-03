@@ -42,9 +42,6 @@ I'm a Systems Engineering student with a love for technology and a passion for c
   
   <p align="center">
     <a href="https://github.com/keincarrillo">
-      <img src="https://github-readme-stats.vercel.app/api?username=keincarrillo&theme=nord&show_icons=true&count_private=true&hide_border=true&line_height=21&cache_seconds=3600&include_all_commits=true" alt="Kein's GitHub Stats" />
-    </a>
-    <a href="https://github.com/keincarrillo">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=keincarrillo&theme=nord&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
     </a>
   </p>
