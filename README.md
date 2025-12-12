@@ -37,14 +37,4 @@ I'm a Systems Engineering student with a love for technology and a passion for c
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  <h3 align="center">📊 Mis Estadísticas de GitHub 📊</h3>
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=keincarrillo&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-    </a>
-  </p>
-</div>
-
 
