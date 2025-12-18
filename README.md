@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kein
+# 👋 Hi!, I'm Kein
 
 I'm a Systems Engineering student with a love for technology and a passion for continuous learning.
 
