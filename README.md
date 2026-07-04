@@ -12,12 +12,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keincarrillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keincarrillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keincarrillo&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keincarrillo&theme=radical&no-frame=true&no-bg=true&column=7" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" onerror="this.style.display='none'"/>
 </div>
 
 ---
