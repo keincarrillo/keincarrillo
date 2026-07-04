@@ -1,13 +1,12 @@
+```c
+printf("Hello, World!");  // 👋 Hi, I'm Kein
+```
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E6F7&width=435&lines=Hello!+I'm+Kein+👋;Systems+Engineering+Student;Full-Stack+Developer+in+Progress;Always+learning+new+things!" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>printf("Hello, World!");</code>
-</div>
+```text
+🧑‍💻 Systems Engineering Student
+🚀 Full-Stack Developer in Progress
+📚 Always learning new things
+```
 
 <br/>
 
