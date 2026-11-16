@@ -57,7 +57,6 @@ I'm **Kein** — a **Systems Engineering** student who loves building stuff for 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keincarrillo&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keincarrillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" onerror="this.style.display='none'"/>
 </div>
 
 ---
